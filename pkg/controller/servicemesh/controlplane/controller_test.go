@@ -39,7 +39,7 @@ var mergeTests = []mergeTestCases{
 			"a": 2,
 		},
 		expectedResult: map[string]interface{}{
-			"a": 1,
+			"a": 2,
 		},
 	},
 	{
